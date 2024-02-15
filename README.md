@@ -1,1 +1,9 @@
-# portfolio-gabriel-sucena
+# Portfolio - Web Developer
+
+## Tarefas
+
+- [ ] Header
+- [ ] Apresentação
+- [ ] Projetos
+- [ ] Conhecimentos
+- [ ] Orçamento
